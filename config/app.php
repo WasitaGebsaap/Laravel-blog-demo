@@ -143,7 +143,7 @@ return [
         // 'store'  => 'redis',
     ],
 
-    'rows_per_page' => env('APP_ROWS_PER_PAGE, 15')
+    //'rows_per_page' => env('APP_ROWS_PER_PAGE, 15')
     
     /*
     |--------------------------------------------------------------------------
@@ -156,7 +156,7 @@ return [
     |
     */
 
-    //'providers' => [
+    'providers' => [
 
         /*
          * Laravel Framework Service Providers...
